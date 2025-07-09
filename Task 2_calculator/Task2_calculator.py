@@ -39,8 +39,3 @@ while True:
                 print("The division is : ",c)
         else:
             print("Enter a valid input")
-    
-        
-    
- 
-    
